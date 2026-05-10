@@ -1,2 +1,2 @@
-# Html-practise
+# Html-practice
 MY HTML learning journey
